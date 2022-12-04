@@ -12,6 +12,9 @@ What things you need to install:
 * ### Running on local machine
 
     1. Running the project using command `npm run test`
+
+ Details for Json Schema from “https://api.punkapi.com/v2/beers”.
+Generate json schema using https://www.liquid-technologies.com/online-json-to-schema-converter,   
     
 ## Report
 [Click here to check the report](https://pempekriting.github.io/PunkApiAutomation/reports/mochawesome/mochawesome.html)   
