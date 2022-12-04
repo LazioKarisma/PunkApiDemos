@@ -1,7 +1,3 @@
-# PunkApiAutomation
-
-Hi! This is a project automation API with study case Punk API using Supertest, Chai, Mocha, and Mochawesome
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
